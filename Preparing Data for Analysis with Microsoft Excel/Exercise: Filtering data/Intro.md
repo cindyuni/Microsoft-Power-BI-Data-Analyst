@@ -1,9 +1,9 @@
-## Introduction
+## 📣 Introduction
 By now, you should be familiar with the filtering feature in Microsoft Excel. This feature allows you to organize content so that you can read and identify data quickly and efficiently. This makes it easier to analyze your data.
 
 In this exercise, you’ll use the filters to find key information in the worksheet data. By the time you complete this activity, you’ll be able to use the filter technique to perform a simple analysis of the information in the worksheet. 
 
-## Case study
+## 📚 Case study
 Jamie from Adventure Works has emailed you questions about the inventory file you are working on.
 
 She needs you to find the following numbers and submit them to her:
