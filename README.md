@@ -19,14 +19,14 @@ Throughout this repository, I will share:
 
 | # | Course Title | Status | Folder |
 |---|--------------|--------|--------|
-| 1 | Foundations of Data Analysis and Power BI | ✅ Completed |  |
-| 2 | Preparing Data for Analysis with Microsoft Excel | ⏳ In Progress | [📁 course-2](./Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel) |
-| 3 | Cleaning Data with Power Query in Power BI | ⏳ Not Started |  |
+| 1 | Preparing Data for Analysis with Microsoft Excel | ✅ Completed |[📁 course-1](./Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel)   |
+| 2 | Harnessing the Power of Data with Power BI | ⏳ In Progress |  |
+| 3 | Extract, Transform and Load Data in Power BI | ⏳ Not Started |  |
 | 4 | Data Modeling in Power BI | ⏳ Not Started |  |
-| 5 | Visualizing Data in Power BI | ⏳ Not Started |  |
-| 6 | Data Analysis and DAX | ⏳ Not Started |  |
-| 7 | Creating Dashboards in Power BI | ⏳ Not Started |  |
-| 8 | Capstone: Data Analysis in Power BI | ⏳ Not Started |  |
+| 5 | Data Analysis and Visualization with Power BI | ⏳ Not Started |  |
+| 6 | Creative Designing in Power BI| ⏳ Not Started |  |
+| 7 | Deploy and Maintain Power BI Assets and Capstone project| ⏳ Not Started |  |
+| 8 | Microsoft PL-300 Exam Preparation and Practice | ⏳ Not Started |  |
 
 ---
 
