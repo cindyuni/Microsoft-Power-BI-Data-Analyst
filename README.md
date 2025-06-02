@@ -20,7 +20,7 @@ Throughout this repository, I will share:
 | # | Course Title | Status | Folder |
 |---|--------------|--------|--------|
 | 1 | Preparing Data for Analysis with Microsoft Excel | ✅ Completed |[📁 course-1](./Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel)   |
-| 2 | Harnessing the Power of Data with Power BI | ⏳ In Progress |  |
+| 2 | Harnessing the Power of Data with Power BI |  ✅ Completed |[📁 course-2](./Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI)  |
 | 3 | Extract, Transform and Load Data in Power BI | ⏳ Not Started |  |
 | 4 | Data Modeling in Power BI | ⏳ Not Started |  |
 | 5 | Data Analysis and Visualization with Power BI | ⏳ Not Started |  |
