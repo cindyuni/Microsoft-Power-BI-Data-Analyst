@@ -9,3 +9,6 @@ Adventure Works has provided you with an Excel file containing the newly acquire
 - This exercise aims to help you to understand how to identify data anomalies by profiling data.
 
 - By the end of this exercise, you’ll understand how to profile data in Power Query, and how to identify data anomalies.
+
+# Result Preview
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6fc3d27f-4288-4e32-b053-1f290c3c5b13" />
