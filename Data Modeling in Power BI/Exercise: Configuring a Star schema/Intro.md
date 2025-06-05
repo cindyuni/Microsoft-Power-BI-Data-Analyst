@@ -13,3 +13,11 @@ In this exercise, you must apply your knowledge of these concepts by configuring
 
 ## Adventure Works case study
 Adventure Works wants to analyze its Sales data to generate insights into its business. It needs to create a data model using a Star schema. You can help the company to build this schema using the datasets within the workbook AdventureWorksData.
+
+
+## Result Preview
+- The **Sales** table is the **fact table** that records transactional details.
+- The **Products, Region, and Salesperson** tables are the **dimension tables**.
+- The cardinality is set to **Many-to-One** and that the cross-filter direction is set to **Single**.
+  
+![image](https://github.com/user-attachments/assets/320085e7-c790-43fc-a470-97db469485ba)
