@@ -19,5 +19,7 @@ Adventure Works wants to analyze its Sales data to generate insights into its bu
 - The **Sales** table is the **fact table** that records transactional details.
 - The **Products, Region, and Salesperson** tables are the **dimension tables**.
 - The cardinality is set to **Many-to-One** and that the cross-filter direction is set to **Single**.
-  
+
+Below is a snapshot of the Power BI repprt built based on the star schema:
+
 ![image](https://github.com/user-attachments/assets/320085e7-c790-43fc-a470-97db469485ba)
