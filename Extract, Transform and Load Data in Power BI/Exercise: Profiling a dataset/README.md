@@ -11,4 +11,26 @@ Adventure Works has provided you with an Excel file containing the newly acquire
 - By the end of this exercise, you’ll understand how to profile data in Power Query, and how to identify data anomalies.
 
 ## Result Preview
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6fc3d27f-4288-4e32-b053-1f290c3c5b13" />
+In this project, I used Column quality, Column distribution, and Column profile features in Power BI to explore and clean the dataset before building the data model.
+
+- **Column quality**  
+  Shows the percentage of **valid**, **error**, and **empty** values in each column.  
+  → Helps identify missing or problematic data at a glance.
+
+- **Column distribution**  
+  Displays a visual representation of **value frequency** in the column.  
+  → Useful for spotting **duplicates**, **outliers**, or **imbalanced categories**.
+
+- **Column profile**  
+  Provides detailed statistics for a selected column, including:  
+  **Count**, **Distinct count**, **Min / Max**, **Average** (for numerical data)  
+  → Helps you understand the data’s range and distribution.
+
+
+These tools helped me:
+- Detect and handle missing or invalid data
+- Understand value frequency and identify duplicates
+- Gain insights into data range and distribution
+
+The results and visualizations shown in this project are based on this cleaned and profiled data.
+<img width="1301" alt="image" src="https://github.com/user-attachments/assets/e61576d2-42cc-4cc7-8429-4d967c84a405" />
