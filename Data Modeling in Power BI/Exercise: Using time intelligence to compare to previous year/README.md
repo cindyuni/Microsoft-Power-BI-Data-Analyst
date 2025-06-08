@@ -17,3 +17,8 @@ Adventure Works needs to analyze the performance of its sales team and growth to
 Begin by helping Adventure Worksto evaluate its sales from the previous year to compare the sales team's performance for the current year. Then calculate Adventure Works' year-over-year change in sales to analyze the company’s growth and monthly and annual trends in sales volume.
 
 Adventure Works provides a Power BI project file called AdventureWorks.pbix that contains the required data model. You must load this dataset into Power BI, evaluate the data quality, and configure the model to ensure that Adventure Works can use it to make informed decisions.
+
+## Result Preview
+A matrix view of the measure’s results is visible in the diagram below.
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/e0d1f195-cdc4-45dc-acf3-6b216552d3c9" />
