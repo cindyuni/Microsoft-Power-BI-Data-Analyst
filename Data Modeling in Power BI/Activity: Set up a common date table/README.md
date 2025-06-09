@@ -22,3 +22,9 @@ Adventure Works collects data from a range of different sources and collates thi
 
 **However, there’s no date dimension table in these datasets. This makes it difficult to perform time intelligence analysis. 
 Help Adventure Works to create a common-date table in its data model using DAX.**
+
+## Result Preview
+
+Created a common date dimension table in the data model using DAX and M queries. 
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/4175610f-a1f9-496d-b979-79bc5158f89b" />
