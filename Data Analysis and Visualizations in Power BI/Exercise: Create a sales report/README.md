@@ -1,0 +1,5 @@
+## Introduction
+Sales reports are critical tools for business owners, stakeholders, and decision-makers. They provide essential insights into how a company's products or services are performing in the market—guiding decisions and shaping future strategies. In this exercise, you'll explore how you can use Power BI’s data visualization capabilities to create an interactive sales report. 
+
+## Case study
+As the data analyst at Adventure Works, creating sales reports is critical to your role. By analyzing sales performance, you can help the company identify trends and areas for improvement, assess business performance and progress toward goals, plan and allocate resources, and ultimately make data-driven decisions. Say the sales department requests a sales report demonstrating Adventure Works' sales revenue over time. The sales dataset **you'll use for the report consists of rows representing a transaction with various data points, such as Product Category, Product Name, Order Date, and Total Sales.** 
