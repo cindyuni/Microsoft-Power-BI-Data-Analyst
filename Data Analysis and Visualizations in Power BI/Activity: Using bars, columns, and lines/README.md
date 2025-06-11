@@ -8,3 +8,8 @@ In this activity, you will apply some of your newly gained knowledge by creating
 4. Display the order quantity across all regions during this time using a stacked bar chart.
 
 ## Result Preview
+- Add a line chart to illustrate sales trends over time
+- Add a clustered column chart to display the distribution of order statuses
+- Add a stacked bar chart to demonstrate differences in order quantity across different regions
+  
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/3e08f6db-34de-4f23-9362-ac3ad0716670" />
