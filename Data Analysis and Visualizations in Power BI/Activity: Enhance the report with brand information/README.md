@@ -6,3 +6,7 @@ Previously, you learned about pie, donut, and treemap charts in Microsoft Power 
 3. Hide the legend to declutter the chart.
 
 ## Result Preview
+
+- Add a pie chart displaying order quantity by product category
+  
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/692fafd2-f1cf-4bb0-84c7-e59e60010cd9" />
