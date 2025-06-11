@@ -14,6 +14,6 @@ As the data analyst at Adventure Works, creating sales reports is critical to yo
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/13986f54-ea84-4696-b97f-b118a7342f51" />
 
-- Cluster Bar Chart with Slicer
+- Stacked Bar Chart with Slicer
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/6902eaca-e906-4130-95b4-b77849d397b7" />
