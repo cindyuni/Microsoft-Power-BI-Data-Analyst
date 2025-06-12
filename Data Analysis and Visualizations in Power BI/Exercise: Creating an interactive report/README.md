@@ -11,3 +11,15 @@ As a data analyst, you know it is your role to bring these insights to the CEO t
 - Allow for easy filtering of product categories using a slicer.
 
 - Provide a convenient bookmark to reload the report with the key insight highlighted.
+
+## Result Preview
+
+- Create the Sales Detail page
+- Connect the order Month as the Drillthrough field
+- Add a slicer for Product Category
+  
+![image](https://github.com/user-attachments/assets/c5666a5d-9af6-4765-8fed-04d59d9fec13)
+
+- Add a bookmark for Mountain Bikes sold in March
+
+![image](https://github.com/user-attachments/assets/fdf9091b-d7fc-49c9-9ced-f25b24f4896b)
