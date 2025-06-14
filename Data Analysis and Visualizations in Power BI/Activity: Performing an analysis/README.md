@@ -7,3 +7,6 @@ Your task is to:
 2. Enhance the clarity of the histogram by using age bins instead of distinct ages.
 3. Enhance the scatter chart by clustering the cities into four categories according to their performance.
 
+## Result Preview
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ded2339c-d1d7-42a0-ae06-22b56ae65e43" />
