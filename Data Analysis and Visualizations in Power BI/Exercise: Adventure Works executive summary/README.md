@@ -13,3 +13,5 @@ You've just received an email marked "URGENT" from the executives at Adventure W
 The executives understand that in the modern business landscape, data isn't just an asset; it's the essence of strategic decision-making. As you look around, you see various department heads clutching different pieces of the data puzzle—sales printouts, customer demographics, and inventory reports—but they're fragmented, disjointed, and not speaking to each other. The executives look to you to make the data understandable and actionable. You've been given a significant responsibility: to harness the potential of sales and customer data that will influence high-stakes decision-making. So, are you ready to dive in?
 
 ## Result Preview
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/391477c3-115c-4769-915f-5ff8731a7e52" />
