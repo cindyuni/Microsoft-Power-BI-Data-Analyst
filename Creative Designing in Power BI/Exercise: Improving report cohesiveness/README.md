@@ -17,3 +17,6 @@ By the end of this exercise, you’ll understand how to use table and pie chart 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/047f40ff-9959-4669-8397-3a76a4576dc3" />
 
 - After
+  
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d9377a0a-b4bc-4b19-8539-d31d83959ae4" />
+
