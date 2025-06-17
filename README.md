@@ -23,8 +23,8 @@ Throughout this repository, I will share:
 | 2 | Harnessing the Power of Data with Power BI |  ✅ Completed |[📁 course-2](./Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI)  |
 | 3 | Extract, Transform and Load Data in Power BI | ✅ Completed | [📁 course-3](./Extract,%20Transform%20and%20Load%20Data%20in%20Power%20BI)  |
 | 4 | Data Modeling in Power BI |  ✅ Completed| [📁 course-4](./Data%20Modeling%20in%20Power%20BI)  |
-| 5 | Data Analysis and Visualization with Power BI | ⏳ In Progress|  [📁 course-5](./Data%20Analysis%20and%20Visualization%20with%20Power%20BI)  |
-| 6 | Creative Designing in Power BI| ⏳ Not Started |  |
+| 5 | Data Analysis and Visualization with Power BI |  ✅ Completed|  [📁 course-5](./Data%20Analysis%20and%20Visualization%20with%20Power%20BI)  |
+| 6 | Creative Designing in Power BI| ⏳ In Progress |  [📁 course-6](./Creative%20Designing%20in%20Power%20BI)  |
 | 7 | Deploy and Maintain Power BI Assets and Capstone project| ⏳ Not Started |  |
 | 8 | Microsoft PL-300 Exam Preparation and Practice | ⏳ Not Started |  |
 
