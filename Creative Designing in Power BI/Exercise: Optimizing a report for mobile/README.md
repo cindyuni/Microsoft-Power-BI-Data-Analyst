@@ -23,4 +23,5 @@ By completing this exercise, you will demonstrate your ability to:
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/809d113d-a415-4497-814b-10e6da61f27a" />
 
 - Mobile Layout
-<img width="389" alt="image" src="https://github.com/user-attachments/assets/24a62e9e-5c6b-4c07-a943-20636e5a16e4" />
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/8024c9b9-dc9d-4f2a-b146-3c7a3c1b486f" />
+
