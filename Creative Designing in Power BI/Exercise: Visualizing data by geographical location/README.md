@@ -15,3 +15,6 @@ By completing this exercise, you will demonstrate your ability to:
 - Format and configure the map appropriately using color coding and design perspectives.
 
 ## Result Preview
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/17ed715c-a2cf-4547-98b5-ce2f6a435737" />
+
