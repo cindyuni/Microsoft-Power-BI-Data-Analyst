@@ -33,3 +33,5 @@ By completing this exercise, you will demonstrate your ability to:
 
 ## Result Preview
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/45644264-db57-400d-b80c-7c13041bff90" />
+
