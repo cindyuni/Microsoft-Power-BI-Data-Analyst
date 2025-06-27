@@ -15,3 +15,22 @@ This project will test you on the topics covered throughout this Professional Ce
 - Creating and enhancing dashboards and reports for usability, storytelling, and identifying patterns and trends.
 
 - Configuring alerts.
+
+
+## Result Preview
+
+- Sales Overview
+
+![image](https://github.com/user-attachments/assets/a48d659e-1cf8-429f-b4a2-9a79b814e9d1)
+
+- Profit Overviwe
+
+  ![image](https://github.com/user-attachments/assets/9ec94b4a-58fb-46c7-bf74-a36e3f4354fc)
+
+- Mobile Layout
+
+  ![image](https://github.com/user-attachments/assets/aa781e66-f73a-4ac2-b4e8-42736459e7b3)
+
+- Final Model View
+
+  ![image](https://github.com/user-attachments/assets/44633fce-7604-4ab0-a9fb-cf7d914c96b2)
