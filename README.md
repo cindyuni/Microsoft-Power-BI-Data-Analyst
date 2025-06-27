@@ -25,7 +25,7 @@ Throughout this repository, I will share:
 | 4 | Data Modeling in Power BI |  ✅ Completed| [📁 course-4](./Data%20Modeling%20in%20Power%20BI)  |
 | 5 | Data Analysis and Visualization with Power BI |  ✅ Completed|  [📁 course-5](./Data%20Analysis%20and%20Visualization%20with%20Power%20BI)  |
 | 6 | Creative Designing in Power BI|  ✅ Completed |  [📁 course-6](./Creative%20Designing%20in%20Power%20BI)  |
-| 7 | Deploy and Maintain Power BI Assets and Capstone project| ⏳ In Progress |  |
+| 7 | Deploy and Maintain Power BI Assets and Capstone project| ⏳ In Progress | [📁 course-7](./Deploy%20and%20Maintain%20Power%20BI%20Assets%20and%20Capstone%20project)  |
 | 8 | Microsoft PL-300 Exam Preparation and Practice | ⏳ Not Started |  |
 
 ---
