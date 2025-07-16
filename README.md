@@ -4,6 +4,12 @@ This GitHub repository contains my assignment submissions, project screenshots, 
 
 ---
 
+## 🎓 Certification  
+ 
+<img width="608" height="469" alt="image" src="https://github.com/user-attachments/assets/bb58db27-6947-4d06-9ceb-a0fea698605d" />
+
+
+---
 ## 💡 Program Overview
 
 The **Microsoft Power BI Data Analyst Professional Certificate** is an 8-course program designed to build foundational and advanced skills in data analysis using Power BI.
